@@ -1,2 +1,23 @@
-.obsidian/
+﻿# === Obsidian 运行时 ===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*//.hotreload
+
+# === Smart Connections AI 索引 ===
+.smart-env/
+
+# === IDE ===
 .idea/
+*.iml
+.vscode/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === 临时文件 ===
+*.tmp
+*.bak
+*~
